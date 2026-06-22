@@ -1,0 +1,128 @@
+[
+  {
+    "id": "P005",
+    "vek": 75,
+    "pohlavi": "M",
+    "hlavni_obtiz": "horečka a kašel",
+    "symptomy": [
+      "horečka",
+      "kašel",
+      "slabost"
+    ],
+    "vitaly": {
+      "TF": 91,
+      "TK": "130/78",
+      "SpO2": 95,
+      "teplota": 38.3,
+      "DF": 20
+    },
+    "spravna_priorita": 2,
+    "baseline_priorita": 3,
+    "proc_zradne": "senior s respiracnimi potizemi v sezone; riziko je v anamneze a epidemiologicke situaci"
+  },
+  {
+    "id": "P010",
+    "vek": 70,
+    "pohlavi": "M",
+    "hlavni_obtiz": "horečka a kašel",
+    "symptomy": [
+      "horečka",
+      "kašel",
+      "slabost"
+    ],
+    "vitaly": {
+      "TF": 100,
+      "TK": "130/84",
+      "SpO2": 94,
+      "teplota": 38.6,
+      "DF": 18
+    },
+    "spravna_priorita": 2,
+    "baseline_priorita": 2,
+    "proc_zradne": "senior s respiracnimi potizemi v sezone; riziko je v anamneze a epidemiologicke situaci"
+  },
+  {
+    "id": "P017",
+    "vek": 54,
+    "pohlavi": "Ž",
+    "hlavni_obtiz": "nevolnost a únava",
+    "symptomy": [
+      "nevolnost",
+      "únava",
+      "mírná dušnost"
+    ],
+    "vitaly": {
+      "TF": 98,
+      "TK": "135/82",
+      "SpO2": 98,
+      "teplota": 36.6,
+      "DF": 17
+    },
+    "spravna_priorita": 2,
+    "baseline_priorita": 3,
+    "proc_zradne": "netypicky probihajici infarkt: chybi klasicke priznaky, ale v anamneze je kardialni riziko"
+  },
+  {
+    "id": "P020",
+    "vek": 75,
+    "pohlavi": "M",
+    "hlavni_obtiz": "horečka a kašel",
+    "symptomy": [
+      "horečka",
+      "kašel",
+      "slabost"
+    ],
+    "vitaly": {
+      "TF": 90,
+      "TK": "132/73",
+      "SpO2": 92,
+      "teplota": 38.3,
+      "DF": 22
+    },
+    "spravna_priorita": 2,
+    "baseline_priorita": 2,
+    "proc_zradne": "senior s respiracnimi potizemi v sezone; riziko je v anamneze a epidemiologicke situaci"
+  },
+  {
+    "id": "P001",
+    "vek": 32,
+    "pohlavi": "M",
+    "hlavni_obtiz": "horečka a kašel",
+    "symptomy": [
+      "horečka",
+      "kašel",
+      "rýma"
+    ],
+    "vitaly": {
+      "TF": 74,
+      "TK": "118/72",
+      "SpO2": 99,
+      "teplota": 37.5,
+      "DF": 14
+    },
+    "spravna_priorita": 4,
+    "baseline_priorita": 3,
+    "proc_zradne": "lehky pripad; baseline ho resi spravne, hlidejte, at ho zbytecne neeskalujete (plany poplach)"
+  },
+  {
+    "id": "P014",
+    "vek": 52,
+    "pohlavi": "M",
+    "hlavni_obtiz": "horečka a kašel",
+    "symptomy": [
+      "horečka",
+      "kašel",
+      "rýma"
+    ],
+    "vitaly": {
+      "TF": 94,
+      "TK": "119/74",
+      "SpO2": 99,
+      "teplota": 38.5,
+      "DF": 15
+    },
+    "spravna_priorita": 4,
+    "baseline_priorita": 2,
+    "proc_zradne": "lehky pripad; baseline ho resi spravne, hlidejte, at ho zbytecne neeskalujete (plany poplach)"
+  }
+]

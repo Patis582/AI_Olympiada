@@ -1,0 +1,2242 @@
+[
+  {
+    "id": "P001",
+    "datum": "2026-02-02",
+    "vek": 32,
+    "pohlavi": "M",
+    "hlavni_obtiz": "horečka a kašel",
+    "symptomy": [
+      "horečka",
+      "kašel",
+      "rýma"
+    ],
+    "vitaly": {
+      "TF": 74,
+      "TK": "118/72",
+      "SpO2": 99,
+      "teplota": 37.5,
+      "DF": 14
+    }
+  },
+  {
+    "id": "P002",
+    "datum": "2026-02-02",
+    "vek": 38,
+    "pohlavi": "Ž",
+    "hlavni_obtiz": "zhoršení astmatu",
+    "symptomy": [
+      "pískoty",
+      "mírná dušnost"
+    ],
+    "vitaly": {
+      "TF": 92,
+      "TK": "129/78",
+      "SpO2": 93,
+      "teplota": 37.0,
+      "DF": 19
+    }
+  },
+  {
+    "id": "P003",
+    "datum": "2026-03-02",
+    "vek": 26,
+    "pohlavi": "Ž",
+    "hlavni_obtiz": "bolest po pádu",
+    "symptomy": [
+      "bolest končetiny",
+      "otok",
+      "deformita"
+    ],
+    "vitaly": {
+      "TF": 77,
+      "TK": "132/76",
+      "SpO2": 98,
+      "teplota": 36.9,
+      "DF": 18
+    }
+  },
+  {
+    "id": "P004",
+    "datum": "2026-01-19",
+    "vek": 44,
+    "pohlavi": "M",
+    "hlavni_obtiz": "silná bolest břicha",
+    "symptomy": [
+      "silná bolest břicha",
+      "zvracení",
+      "napětí stěny"
+    ],
+    "vitaly": {
+      "TF": 102,
+      "TK": "122/74",
+      "SpO2": 97,
+      "teplota": 38.3,
+      "DF": 25
+    }
+  },
+  {
+    "id": "P005",
+    "datum": "2026-01-12",
+    "vek": 75,
+    "pohlavi": "M",
+    "hlavni_obtiz": "horečka a kašel",
+    "symptomy": [
+      "horečka",
+      "kašel",
+      "slabost"
+    ],
+    "vitaly": {
+      "TF": 91,
+      "TK": "130/78",
+      "SpO2": 95,
+      "teplota": 38.3,
+      "DF": 20
+    }
+  },
+  {
+    "id": "P006",
+    "datum": "2026-01-19",
+    "vek": 58,
+    "pohlavi": "M",
+    "hlavni_obtiz": "bolest po pádu",
+    "symptomy": [
+      "bolest končetiny",
+      "otok",
+      "deformita"
+    ],
+    "vitaly": {
+      "TF": 95,
+      "TK": "125/83",
+      "SpO2": 97,
+      "teplota": 36.5,
+      "DF": 17
+    }
+  },
+  {
+    "id": "P007",
+    "datum": "2026-03-02",
+    "vek": 69,
+    "pohlavi": "Ž",
+    "hlavni_obtiz": "silná bolest břicha",
+    "symptomy": [
+      "silná bolest břicha",
+      "zvracení",
+      "napětí stěny"
+    ],
+    "vitaly": {
+      "TF": 101,
+      "TK": "112/66",
+      "SpO2": 97,
+      "teplota": 38.1,
+      "DF": 20
+    }
+  },
+  {
+    "id": "P008",
+    "datum": "2026-02-02",
+    "vek": 43,
+    "pohlavi": "M",
+    "hlavni_obtiz": "zhoršení astmatu",
+    "symptomy": [
+      "pískoty",
+      "mírná dušnost"
+    ],
+    "vitaly": {
+      "TF": 97,
+      "TK": "135/84",
+      "SpO2": 94,
+      "teplota": 36.6,
+      "DF": 19
+    }
+  },
+  {
+    "id": "P009",
+    "datum": "2026-05-04",
+    "vek": 43,
+    "pohlavi": "M",
+    "hlavni_obtiz": "silná bolest břicha",
+    "symptomy": [
+      "silná bolest břicha",
+      "zvracení",
+      "napětí stěny"
+    ],
+    "vitaly": {
+      "TF": 107,
+      "TK": "109/80",
+      "SpO2": 95,
+      "teplota": 38.5,
+      "DF": 26
+    }
+  },
+  {
+    "id": "P010",
+    "datum": "2026-02-09",
+    "vek": 70,
+    "pohlavi": "M",
+    "hlavni_obtiz": "horečka a kašel",
+    "symptomy": [
+      "horečka",
+      "kašel",
+      "slabost"
+    ],
+    "vitaly": {
+      "TF": 100,
+      "TK": "130/84",
+      "SpO2": 94,
+      "teplota": 38.6,
+      "DF": 18
+    }
+  },
+  {
+    "id": "P011",
+    "datum": "2026-03-02",
+    "vek": 19,
+    "pohlavi": "M",
+    "hlavni_obtiz": "zhoršení astmatu",
+    "symptomy": [
+      "pískoty",
+      "mírná dušnost"
+    ],
+    "vitaly": {
+      "TF": 94,
+      "TK": "128/75",
+      "SpO2": 96,
+      "teplota": 36.4,
+      "DF": 23
+    }
+  },
+  {
+    "id": "P012",
+    "datum": "2026-01-19",
+    "vek": 80,
+    "pohlavi": "Ž",
+    "hlavni_obtiz": "náhlá porucha vědomí",
+    "symptomy": [
+      "porucha vědomí",
+      "bledost",
+      "studený pot"
+    ],
+    "vitaly": {
+      "TF": 129,
+      "TK": "91/51",
+      "SpO2": 86,
+      "teplota": 36.3,
+      "DF": 27
+    }
+  },
+  {
+    "id": "P013",
+    "datum": "2026-03-02",
+    "vek": 43,
+    "pohlavi": "Ž",
+    "hlavni_obtiz": "zhoršení astmatu",
+    "symptomy": [
+      "pískoty",
+      "mírná dušnost"
+    ],
+    "vitaly": {
+      "TF": 85,
+      "TK": "118/81",
+      "SpO2": 95,
+      "teplota": 36.6,
+      "DF": 19
+    }
+  },
+  {
+    "id": "P014",
+    "datum": "2026-01-19",
+    "vek": 52,
+    "pohlavi": "M",
+    "hlavni_obtiz": "horečka a kašel",
+    "symptomy": [
+      "horečka",
+      "kašel",
+      "rýma"
+    ],
+    "vitaly": {
+      "TF": 94,
+      "TK": "119/74",
+      "SpO2": 99,
+      "teplota": 38.5,
+      "DF": 15
+    }
+  },
+  {
+    "id": "P015",
+    "datum": "2026-02-02",
+    "vek": 24,
+    "pohlavi": "M",
+    "hlavni_obtiz": "zhoršení astmatu",
+    "symptomy": [
+      "pískoty",
+      "mírná dušnost"
+    ],
+    "vitaly": {
+      "TF": 94,
+      "TK": "127/81",
+      "SpO2": 96,
+      "teplota": 37.1,
+      "DF": 21
+    }
+  },
+  {
+    "id": "P016",
+    "datum": "2026-01-12",
+    "vek": 55,
+    "pohlavi": "M",
+    "hlavni_obtiz": "horečka a kašel",
+    "symptomy": [
+      "horečka",
+      "kašel",
+      "rýma"
+    ],
+    "vitaly": {
+      "TF": 87,
+      "TK": "122/77",
+      "SpO2": 96,
+      "teplota": 37.6,
+      "DF": 14
+    }
+  },
+  {
+    "id": "P017",
+    "datum": "2026-03-02",
+    "vek": 54,
+    "pohlavi": "Ž",
+    "hlavni_obtiz": "nevolnost a únava",
+    "symptomy": [
+      "nevolnost",
+      "únava",
+      "mírná dušnost"
+    ],
+    "vitaly": {
+      "TF": 98,
+      "TK": "135/82",
+      "SpO2": 98,
+      "teplota": 36.6,
+      "DF": 17
+    }
+  },
+  {
+    "id": "P018",
+    "datum": "2026-05-04",
+    "vek": 32,
+    "pohlavi": "M",
+    "hlavni_obtiz": "bolest po pádu",
+    "symptomy": [
+      "bolest končetiny",
+      "otok",
+      "deformita"
+    ],
+    "vitaly": {
+      "TF": 78,
+      "TK": "123/85",
+      "SpO2": 99,
+      "teplota": 36.6,
+      "DF": 17
+    }
+  },
+  {
+    "id": "P019",
+    "datum": "2026-01-12",
+    "vek": 43,
+    "pohlavi": "Ž",
+    "hlavni_obtiz": "horečka a kašel",
+    "symptomy": [
+      "horečka",
+      "kašel",
+      "rýma"
+    ],
+    "vitaly": {
+      "TF": 93,
+      "TK": "125/73",
+      "SpO2": 97,
+      "teplota": 37.7,
+      "DF": 18
+    }
+  },
+  {
+    "id": "P020",
+    "datum": "2026-02-02",
+    "vek": 75,
+    "pohlavi": "M",
+    "hlavni_obtiz": "horečka a kašel",
+    "symptomy": [
+      "horečka",
+      "kašel",
+      "slabost"
+    ],
+    "vitaly": {
+      "TF": 90,
+      "TK": "132/73",
+      "SpO2": 92,
+      "teplota": 38.3,
+      "DF": 22
+    }
+  },
+  {
+    "id": "P021",
+    "datum": "2026-01-26",
+    "vek": 66,
+    "pohlavi": "Ž",
+    "hlavni_obtiz": "náhlá porucha vědomí",
+    "symptomy": [
+      "porucha vědomí",
+      "bledost",
+      "studený pot"
+    ],
+    "vitaly": {
+      "TF": 135,
+      "TK": "90/51",
+      "SpO2": 91,
+      "teplota": 36.3,
+      "DF": 26
+    }
+  },
+  {
+    "id": "P022",
+    "datum": "2026-06-15",
+    "vek": 36,
+    "pohlavi": "M",
+    "hlavni_obtiz": "řezná rána",
+    "symptomy": [
+      "krvácející rána",
+      "bolest"
+    ],
+    "vitaly": {
+      "TF": 83,
+      "TK": "135/82",
+      "SpO2": 99,
+      "teplota": 36.7,
+      "DF": 15
+    }
+  },
+  {
+    "id": "P023",
+    "datum": "2026-01-12",
+    "vek": 62,
+    "pohlavi": "Ž",
+    "hlavni_obtiz": "nevolnost a únava",
+    "symptomy": [
+      "nevolnost",
+      "únava",
+      "mírná dušnost"
+    ],
+    "vitaly": {
+      "TF": 83,
+      "TK": "129/87",
+      "SpO2": 98,
+      "teplota": 36.8,
+      "DF": 20
+    }
+  },
+  {
+    "id": "P024",
+    "datum": "2026-01-26",
+    "vek": 34,
+    "pohlavi": "Ž",
+    "hlavni_obtiz": "mírně zvýšená teplota",
+    "symptomy": [
+      "mírná horečka",
+      "slabost"
+    ],
+    "vitaly": {
+      "TF": 95,
+      "TK": "117/80",
+      "SpO2": 96,
+      "teplota": 37.8,
+      "DF": 20
+    }
+  },
+  {
+    "id": "P025",
+    "datum": "2026-05-04",
+    "vek": 55,
+    "pohlavi": "Ž",
+    "hlavni_obtiz": "horečka a kašel",
+    "symptomy": [
+      "horečka",
+      "kašel",
+      "rýma"
+    ],
+    "vitaly": {
+      "TF": 88,
+      "TK": "131/80",
+      "SpO2": 98,
+      "teplota": 37.7,
+      "DF": 16
+    }
+  },
+  {
+    "id": "P026",
+    "datum": "2026-06-15",
+    "vek": 40,
+    "pohlavi": "M",
+    "hlavni_obtiz": "bolest po pádu",
+    "symptomy": [
+      "bolest končetiny",
+      "otok",
+      "deformita"
+    ],
+    "vitaly": {
+      "TF": 99,
+      "TK": "122/75",
+      "SpO2": 99,
+      "teplota": 36.8,
+      "DF": 18
+    }
+  },
+  {
+    "id": "P027",
+    "datum": "2026-01-19",
+    "vek": 79,
+    "pohlavi": "M",
+    "hlavni_obtiz": "horečka a kašel",
+    "symptomy": [
+      "horečka",
+      "kašel",
+      "slabost"
+    ],
+    "vitaly": {
+      "TF": 90,
+      "TK": "125/81",
+      "SpO2": 94,
+      "teplota": 37.9,
+      "DF": 22
+    }
+  },
+  {
+    "id": "P028",
+    "datum": "2026-02-09",
+    "vek": 82,
+    "pohlavi": "Ž",
+    "hlavni_obtiz": "náhlá porucha vědomí",
+    "symptomy": [
+      "porucha vědomí",
+      "bledost",
+      "studený pot"
+    ],
+    "vitaly": {
+      "TF": 123,
+      "TK": "79/53",
+      "SpO2": 85,
+      "teplota": 36.7,
+      "DF": 31
+    }
+  },
+  {
+    "id": "P029",
+    "datum": "2026-03-02",
+    "vek": 28,
+    "pohlavi": "Ž",
+    "hlavni_obtiz": "dušnost a bušení srdce",
+    "symptomy": [
+      "dušnost",
+      "bušení srdce",
+      "úzkost"
+    ],
+    "vitaly": {
+      "TF": 118,
+      "TK": "123/80",
+      "SpO2": 96,
+      "teplota": 36.7,
+      "DF": 26
+    }
+  },
+  {
+    "id": "P030",
+    "datum": "2026-01-12",
+    "vek": 18,
+    "pohlavi": "M",
+    "hlavni_obtiz": "malátnost a nevolnost",
+    "symptomy": [
+      "malátnost",
+      "nevolnost",
+      "žízeň"
+    ],
+    "vitaly": {
+      "TF": 105,
+      "TK": "114/76",
+      "SpO2": 97,
+      "teplota": 37.5,
+      "DF": 21
+    }
+  },
+  {
+    "id": "P031",
+    "datum": "2026-01-19",
+    "vek": 16,
+    "pohlavi": "Ž",
+    "hlavni_obtiz": "zhoršení astmatu",
+    "symptomy": [
+      "pískoty",
+      "mírná dušnost"
+    ],
+    "vitaly": {
+      "TF": 89,
+      "TK": "132/71",
+      "SpO2": 95,
+      "teplota": 36.9,
+      "DF": 19
+    }
+  },
+  {
+    "id": "P032",
+    "datum": "2026-01-12",
+    "vek": 33,
+    "pohlavi": "M",
+    "hlavni_obtiz": "dušnost a bušení srdce",
+    "symptomy": [
+      "dušnost",
+      "bušení srdce",
+      "úzkost"
+    ],
+    "vitaly": {
+      "TF": 104,
+      "TK": "122/82",
+      "SpO2": 93,
+      "teplota": 36.7,
+      "DF": 24
+    }
+  },
+  {
+    "id": "P033",
+    "datum": "2026-02-02",
+    "vek": 30,
+    "pohlavi": "Ž",
+    "hlavni_obtiz": "silná bolest břicha",
+    "symptomy": [
+      "silná bolest břicha",
+      "zvracení",
+      "napětí stěny"
+    ],
+    "vitaly": {
+      "TF": 105,
+      "TK": "118/65",
+      "SpO2": 96,
+      "teplota": 38.5,
+      "DF": 22
+    }
+  },
+  {
+    "id": "P034",
+    "datum": "2026-02-09",
+    "vek": 50,
+    "pohlavi": "Ž",
+    "hlavni_obtiz": "náhlá porucha vědomí",
+    "symptomy": [
+      "porucha vědomí",
+      "bledost",
+      "studený pot"
+    ],
+    "vitaly": {
+      "TF": 145,
+      "TK": "78/57",
+      "SpO2": 91,
+      "teplota": 36.0,
+      "DF": 29
+    }
+  },
+  {
+    "id": "P035",
+    "datum": "2026-02-09",
+    "vek": 44,
+    "pohlavi": "M",
+    "hlavni_obtiz": "malátnost a nevolnost",
+    "symptomy": [
+      "malátnost",
+      "nevolnost",
+      "žízeň"
+    ],
+    "vitaly": {
+      "TF": 102,
+      "TK": "117/66",
+      "SpO2": 98,
+      "teplota": 37.6,
+      "DF": 20
+    }
+  },
+  {
+    "id": "P036",
+    "datum": "2026-03-02",
+    "vek": 81,
+    "pohlavi": "M",
+    "hlavni_obtiz": "náhlá porucha vědomí",
+    "symptomy": [
+      "porucha vědomí",
+      "bledost",
+      "studený pot"
+    ],
+    "vitaly": {
+      "TF": 136,
+      "TK": "87/55",
+      "SpO2": 85,
+      "teplota": 36.1,
+      "DF": 28
+    }
+  },
+  {
+    "id": "P037",
+    "datum": "2026-01-19",
+    "vek": 45,
+    "pohlavi": "Ž",
+    "hlavni_obtiz": "známá migréna",
+    "symptomy": [
+      "bolest hlavy",
+      "světloplachost"
+    ],
+    "vitaly": {
+      "TF": 76,
+      "TK": "125/83",
+      "SpO2": 99,
+      "teplota": 37.0,
+      "DF": 13
+    }
+  },
+  {
+    "id": "P038",
+    "datum": "2026-01-12",
+    "vek": 65,
+    "pohlavi": "M",
+    "hlavni_obtiz": "bolest po pádu",
+    "symptomy": [
+      "bolest končetiny",
+      "otok",
+      "deformita"
+    ],
+    "vitaly": {
+      "TF": 88,
+      "TK": "120/83",
+      "SpO2": 97,
+      "teplota": 36.6,
+      "DF": 14
+    }
+  },
+  {
+    "id": "P039",
+    "datum": "2026-02-09",
+    "vek": 52,
+    "pohlavi": "Ž",
+    "hlavni_obtiz": "silná bolest břicha",
+    "symptomy": [
+      "silná bolest břicha",
+      "zvracení",
+      "napětí stěny"
+    ],
+    "vitaly": {
+      "TF": 109,
+      "TK": "118/75",
+      "SpO2": 98,
+      "teplota": 38.4,
+      "DF": 24
+    }
+  },
+  {
+    "id": "P040",
+    "datum": "2026-02-09",
+    "vek": 30,
+    "pohlavi": "Ž",
+    "hlavni_obtiz": "malátnost a nevolnost",
+    "symptomy": [
+      "malátnost",
+      "nevolnost",
+      "žízeň"
+    ],
+    "vitaly": {
+      "TF": 112,
+      "TK": "110/70",
+      "SpO2": 97,
+      "teplota": 37.6,
+      "DF": 24
+    }
+  },
+  {
+    "id": "P041",
+    "datum": "2026-06-15",
+    "vek": 46,
+    "pohlavi": "M",
+    "hlavni_obtiz": "známá migréna",
+    "symptomy": [
+      "bolest hlavy",
+      "světloplachost"
+    ],
+    "vitaly": {
+      "TF": 86,
+      "TK": "121/85",
+      "SpO2": 99,
+      "teplota": 36.5,
+      "DF": 13
+    }
+  },
+  {
+    "id": "P042",
+    "datum": "2026-01-19",
+    "vek": 68,
+    "pohlavi": "M",
+    "hlavni_obtiz": "silná bolest břicha",
+    "symptomy": [
+      "silná bolest břicha",
+      "zvracení",
+      "napětí stěny"
+    ],
+    "vitaly": {
+      "TF": 107,
+      "TK": "114/72",
+      "SpO2": 96,
+      "teplota": 37.8,
+      "DF": 20
+    }
+  },
+  {
+    "id": "P043",
+    "datum": "2026-06-15",
+    "vek": 38,
+    "pohlavi": "Ž",
+    "hlavni_obtiz": "zhoršení astmatu",
+    "symptomy": [
+      "pískoty",
+      "mírná dušnost"
+    ],
+    "vitaly": {
+      "TF": 105,
+      "TK": "133/76",
+      "SpO2": 96,
+      "teplota": 36.8,
+      "DF": 19
+    }
+  },
+  {
+    "id": "P044",
+    "datum": "2026-05-04",
+    "vek": 32,
+    "pohlavi": "Ž",
+    "hlavni_obtiz": "horečka a kašel",
+    "symptomy": [
+      "horečka",
+      "kašel",
+      "rýma"
+    ],
+    "vitaly": {
+      "TF": 75,
+      "TK": "131/84",
+      "SpO2": 96,
+      "teplota": 38.1,
+      "DF": 14
+    }
+  },
+  {
+    "id": "P045",
+    "datum": "2026-06-15",
+    "vek": 37,
+    "pohlavi": "M",
+    "hlavni_obtiz": "malátnost a nevolnost",
+    "symptomy": [
+      "malátnost",
+      "nevolnost",
+      "žízeň"
+    ],
+    "vitaly": {
+      "TF": 111,
+      "TK": "123/79",
+      "SpO2": 98,
+      "teplota": 37.8,
+      "DF": 19
+    }
+  },
+  {
+    "id": "P046",
+    "datum": "2026-02-09",
+    "vek": 73,
+    "pohlavi": "Ž",
+    "hlavni_obtiz": "náhlá porucha vědomí",
+    "symptomy": [
+      "porucha vědomí",
+      "bledost",
+      "studený pot"
+    ],
+    "vitaly": {
+      "TF": 135,
+      "TK": "82/53",
+      "SpO2": 88,
+      "teplota": 36.1,
+      "DF": 28
+    }
+  },
+  {
+    "id": "P047",
+    "datum": "2026-01-26",
+    "vek": 27,
+    "pohlavi": "Ž",
+    "hlavni_obtiz": "známá migréna",
+    "symptomy": [
+      "bolest hlavy",
+      "světloplachost"
+    ],
+    "vitaly": {
+      "TF": 72,
+      "TK": "127/74",
+      "SpO2": 99,
+      "teplota": 36.5,
+      "DF": 16
+    }
+  },
+  {
+    "id": "P048",
+    "datum": "2026-01-12",
+    "vek": 31,
+    "pohlavi": "M",
+    "hlavni_obtiz": "řezná rána",
+    "symptomy": [
+      "krvácející rána",
+      "bolest"
+    ],
+    "vitaly": {
+      "TF": 83,
+      "TK": "130/86",
+      "SpO2": 99,
+      "teplota": 37.0,
+      "DF": 14
+    }
+  },
+  {
+    "id": "P049",
+    "datum": "2026-02-09",
+    "vek": 42,
+    "pohlavi": "M",
+    "hlavni_obtiz": "horečka a kašel",
+    "symptomy": [
+      "horečka",
+      "kašel",
+      "rýma"
+    ],
+    "vitaly": {
+      "TF": 83,
+      "TK": "132/77",
+      "SpO2": 99,
+      "teplota": 37.7,
+      "DF": 17
+    }
+  },
+  {
+    "id": "P050",
+    "datum": "2026-01-26",
+    "vek": 36,
+    "pohlavi": "M",
+    "hlavni_obtiz": "dušnost a bušení srdce",
+    "symptomy": [
+      "dušnost",
+      "bušení srdce",
+      "úzkost"
+    ],
+    "vitaly": {
+      "TF": 102,
+      "TK": "134/80",
+      "SpO2": 93,
+      "teplota": 37.0,
+      "DF": 24
+    }
+  },
+  {
+    "id": "P051",
+    "datum": "2026-01-26",
+    "vek": 47,
+    "pohlavi": "M",
+    "hlavni_obtiz": "horečka a kašel",
+    "symptomy": [
+      "horečka",
+      "kašel",
+      "rýma"
+    ],
+    "vitaly": {
+      "TF": 75,
+      "TK": "116/78",
+      "SpO2": 99,
+      "teplota": 37.9,
+      "DF": 17
+    }
+  },
+  {
+    "id": "P052",
+    "datum": "2026-05-04",
+    "vek": 34,
+    "pohlavi": "M",
+    "hlavni_obtiz": "řezná rána",
+    "symptomy": [
+      "krvácející rána",
+      "bolest"
+    ],
+    "vitaly": {
+      "TF": 72,
+      "TK": "133/72",
+      "SpO2": 99,
+      "teplota": 36.7,
+      "DF": 16
+    }
+  },
+  {
+    "id": "P053",
+    "datum": "2026-01-12",
+    "vek": 55,
+    "pohlavi": "Ž",
+    "hlavni_obtiz": "náhlá porucha vědomí",
+    "symptomy": [
+      "porucha vědomí",
+      "bledost",
+      "studený pot"
+    ],
+    "vitaly": {
+      "TF": 126,
+      "TK": "75/49",
+      "SpO2": 86,
+      "teplota": 36.1,
+      "DF": 31
+    }
+  },
+  {
+    "id": "P054",
+    "datum": "2026-02-09",
+    "vek": 69,
+    "pohlavi": "M",
+    "hlavni_obtiz": "bolest po pádu",
+    "symptomy": [
+      "bolest končetiny",
+      "otok",
+      "deformita"
+    ],
+    "vitaly": {
+      "TF": 86,
+      "TK": "125/84",
+      "SpO2": 96,
+      "teplota": 36.9,
+      "DF": 15
+    }
+  },
+  {
+    "id": "P055",
+    "datum": "2026-02-09",
+    "vek": 70,
+    "pohlavi": "Ž",
+    "hlavni_obtiz": "nevolnost a únava",
+    "symptomy": [
+      "nevolnost",
+      "únava",
+      "mírná dušnost"
+    ],
+    "vitaly": {
+      "TF": 94,
+      "TK": "140/89",
+      "SpO2": 96,
+      "teplota": 36.5,
+      "DF": 17
+    }
+  },
+  {
+    "id": "P056",
+    "datum": "2026-01-12",
+    "vek": 40,
+    "pohlavi": "Ž",
+    "hlavni_obtiz": "známá migréna",
+    "symptomy": [
+      "bolest hlavy",
+      "světloplachost"
+    ],
+    "vitaly": {
+      "TF": 82,
+      "TK": "128/81",
+      "SpO2": 97,
+      "teplota": 36.7,
+      "DF": 15
+    }
+  },
+  {
+    "id": "P057",
+    "datum": "2026-01-19",
+    "vek": 67,
+    "pohlavi": "M",
+    "hlavni_obtiz": "náhlá porucha vědomí",
+    "symptomy": [
+      "porucha vědomí",
+      "bledost",
+      "studený pot"
+    ],
+    "vitaly": {
+      "TF": 131,
+      "TK": "89/49",
+      "SpO2": 88,
+      "teplota": 36.1,
+      "DF": 30
+    }
+  },
+  {
+    "id": "P058",
+    "datum": "2026-06-15",
+    "vek": 39,
+    "pohlavi": "M",
+    "hlavni_obtiz": "zhoršení astmatu",
+    "symptomy": [
+      "pískoty",
+      "mírná dušnost"
+    ],
+    "vitaly": {
+      "TF": 103,
+      "TK": "123/80",
+      "SpO2": 94,
+      "teplota": 37.1,
+      "DF": 18
+    }
+  },
+  {
+    "id": "P059",
+    "datum": "2026-05-04",
+    "vek": 41,
+    "pohlavi": "M",
+    "hlavni_obtiz": "bolest po pádu",
+    "symptomy": [
+      "bolest končetiny",
+      "otok",
+      "deformita"
+    ],
+    "vitaly": {
+      "TF": 75,
+      "TK": "135/88",
+      "SpO2": 98,
+      "teplota": 36.5,
+      "DF": 15
+    }
+  },
+  {
+    "id": "P060",
+    "datum": "2026-02-09",
+    "vek": 18,
+    "pohlavi": "M",
+    "hlavni_obtiz": "známá migréna",
+    "symptomy": [
+      "bolest hlavy",
+      "světloplachost"
+    ],
+    "vitaly": {
+      "TF": 81,
+      "TK": "121/72",
+      "SpO2": 97,
+      "teplota": 36.8,
+      "DF": 16
+    }
+  },
+  {
+    "id": "P061",
+    "datum": "2026-06-15",
+    "vek": 48,
+    "pohlavi": "M",
+    "hlavni_obtiz": "silná bolest břicha",
+    "symptomy": [
+      "silná bolest břicha",
+      "zvracení",
+      "napětí stěny"
+    ],
+    "vitaly": {
+      "TF": 100,
+      "TK": "107/74",
+      "SpO2": 96,
+      "teplota": 38.1,
+      "DF": 21
+    }
+  },
+  {
+    "id": "P062",
+    "datum": "2026-03-02",
+    "vek": 45,
+    "pohlavi": "M",
+    "hlavni_obtiz": "známá migréna",
+    "symptomy": [
+      "bolest hlavy",
+      "světloplachost"
+    ],
+    "vitaly": {
+      "TF": 88,
+      "TK": "132/80",
+      "SpO2": 98,
+      "teplota": 36.8,
+      "DF": 15
+    }
+  },
+  {
+    "id": "P063",
+    "datum": "2026-03-02",
+    "vek": 25,
+    "pohlavi": "Ž",
+    "hlavni_obtiz": "horečka a kašel",
+    "symptomy": [
+      "horečka",
+      "kašel",
+      "rýma"
+    ],
+    "vitaly": {
+      "TF": 93,
+      "TK": "132/75",
+      "SpO2": 97,
+      "teplota": 37.7,
+      "DF": 17
+    }
+  },
+  {
+    "id": "P064",
+    "datum": "2026-01-19",
+    "vek": 52,
+    "pohlavi": "M",
+    "hlavni_obtiz": "náhlá porucha vědomí",
+    "symptomy": [
+      "porucha vědomí",
+      "bledost",
+      "studený pot"
+    ],
+    "vitaly": {
+      "TF": 129,
+      "TK": "82/56",
+      "SpO2": 86,
+      "teplota": 36.2,
+      "DF": 31
+    }
+  },
+  {
+    "id": "P065",
+    "datum": "2026-01-12",
+    "vek": 69,
+    "pohlavi": "Ž",
+    "hlavni_obtiz": "nevolnost a únava",
+    "symptomy": [
+      "nevolnost",
+      "únava",
+      "mírná dušnost"
+    ],
+    "vitaly": {
+      "TF": 91,
+      "TK": "132/88",
+      "SpO2": 98,
+      "teplota": 36.6,
+      "DF": 16
+    }
+  },
+  {
+    "id": "P066",
+    "datum": "2026-03-02",
+    "vek": 29,
+    "pohlavi": "M",
+    "hlavni_obtiz": "řezná rána",
+    "symptomy": [
+      "krvácející rána",
+      "bolest"
+    ],
+    "vitaly": {
+      "TF": 71,
+      "TK": "126/85",
+      "SpO2": 98,
+      "teplota": 36.5,
+      "DF": 14
+    }
+  },
+  {
+    "id": "P067",
+    "datum": "2026-01-26",
+    "vek": 21,
+    "pohlavi": "Ž",
+    "hlavni_obtiz": "zhoršení astmatu",
+    "symptomy": [
+      "pískoty",
+      "mírná dušnost"
+    ],
+    "vitaly": {
+      "TF": 103,
+      "TK": "124/72",
+      "SpO2": 94,
+      "teplota": 36.5,
+      "DF": 24
+    }
+  },
+  {
+    "id": "P068",
+    "datum": "2026-05-04",
+    "vek": 68,
+    "pohlavi": "Ž",
+    "hlavni_obtiz": "náhlá porucha vědomí",
+    "symptomy": [
+      "porucha vědomí",
+      "bledost",
+      "studený pot"
+    ],
+    "vitaly": {
+      "TF": 134,
+      "TK": "84/58",
+      "SpO2": 87,
+      "teplota": 36.5,
+      "DF": 26
+    }
+  },
+  {
+    "id": "P069",
+    "datum": "2026-02-02",
+    "vek": 34,
+    "pohlavi": "Ž",
+    "hlavni_obtiz": "horečka a kašel",
+    "symptomy": [
+      "horečka",
+      "kašel",
+      "rýma"
+    ],
+    "vitaly": {
+      "TF": 91,
+      "TK": "117/75",
+      "SpO2": 97,
+      "teplota": 37.7,
+      "DF": 14
+    }
+  },
+  {
+    "id": "P070",
+    "datum": "2026-02-09",
+    "vek": 19,
+    "pohlavi": "M",
+    "hlavni_obtiz": "malátnost a nevolnost",
+    "symptomy": [
+      "malátnost",
+      "nevolnost",
+      "žízeň"
+    ],
+    "vitaly": {
+      "TF": 102,
+      "TK": "119/77",
+      "SpO2": 97,
+      "teplota": 38.0,
+      "DF": 21
+    }
+  },
+  {
+    "id": "P071",
+    "datum": "2026-05-04",
+    "vek": 25,
+    "pohlavi": "Ž",
+    "hlavni_obtiz": "známá migréna",
+    "symptomy": [
+      "bolest hlavy",
+      "světloplachost"
+    ],
+    "vitaly": {
+      "TF": 82,
+      "TK": "122/74",
+      "SpO2": 98,
+      "teplota": 36.9,
+      "DF": 13
+    }
+  },
+  {
+    "id": "P072",
+    "datum": "2026-06-15",
+    "vek": 25,
+    "pohlavi": "M",
+    "hlavni_obtiz": "dušnost a bušení srdce",
+    "symptomy": [
+      "dušnost",
+      "bušení srdce",
+      "úzkost"
+    ],
+    "vitaly": {
+      "TF": 112,
+      "TK": "124/83",
+      "SpO2": 96,
+      "teplota": 37.1,
+      "DF": 24
+    }
+  },
+  {
+    "id": "P073",
+    "datum": "2026-05-04",
+    "vek": 38,
+    "pohlavi": "Ž",
+    "hlavni_obtiz": "horečka a kašel",
+    "symptomy": [
+      "horečka",
+      "kašel",
+      "rýma"
+    ],
+    "vitaly": {
+      "TF": 89,
+      "TK": "123/70",
+      "SpO2": 96,
+      "teplota": 37.8,
+      "DF": 18
+    }
+  },
+  {
+    "id": "P074",
+    "datum": "2026-01-12",
+    "vek": 51,
+    "pohlavi": "M",
+    "hlavni_obtiz": "náhlá porucha vědomí",
+    "symptomy": [
+      "porucha vědomí",
+      "bledost",
+      "studený pot"
+    ],
+    "vitaly": {
+      "TF": 135,
+      "TK": "91/59",
+      "SpO2": 87,
+      "teplota": 36.1,
+      "DF": 30
+    }
+  },
+  {
+    "id": "P075",
+    "datum": "2026-06-15",
+    "vek": 40,
+    "pohlavi": "Ž",
+    "hlavni_obtiz": "řezná rána",
+    "symptomy": [
+      "krvácející rána",
+      "bolest"
+    ],
+    "vitaly": {
+      "TF": 83,
+      "TK": "128/77",
+      "SpO2": 99,
+      "teplota": 36.5,
+      "DF": 15
+    }
+  },
+  {
+    "id": "P076",
+    "datum": "2026-05-04",
+    "vek": 53,
+    "pohlavi": "M",
+    "hlavni_obtiz": "řezná rána",
+    "symptomy": [
+      "krvácející rána",
+      "bolest"
+    ],
+    "vitaly": {
+      "TF": 71,
+      "TK": "132/73",
+      "SpO2": 98,
+      "teplota": 36.6,
+      "DF": 14
+    }
+  },
+  {
+    "id": "P077",
+    "datum": "2026-06-15",
+    "vek": 66,
+    "pohlavi": "Ž",
+    "hlavni_obtiz": "náhlá porucha vědomí",
+    "symptomy": [
+      "porucha vědomí",
+      "bledost",
+      "studený pot"
+    ],
+    "vitaly": {
+      "TF": 121,
+      "TK": "81/56",
+      "SpO2": 89,
+      "teplota": 36.6,
+      "DF": 31
+    }
+  },
+  {
+    "id": "P078",
+    "datum": "2026-01-26",
+    "vek": 38,
+    "pohlavi": "M",
+    "hlavni_obtiz": "bolest po pádu",
+    "symptomy": [
+      "bolest končetiny",
+      "otok",
+      "deformita"
+    ],
+    "vitaly": {
+      "TF": 89,
+      "TK": "135/76",
+      "SpO2": 96,
+      "teplota": 37.0,
+      "DF": 18
+    }
+  },
+  {
+    "id": "P079",
+    "datum": "2026-05-04",
+    "vek": 23,
+    "pohlavi": "Ž",
+    "hlavni_obtiz": "známá migréna",
+    "symptomy": [
+      "bolest hlavy",
+      "světloplachost"
+    ],
+    "vitaly": {
+      "TF": 72,
+      "TK": "118/84",
+      "SpO2": 97,
+      "teplota": 36.8,
+      "DF": 14
+    }
+  },
+  {
+    "id": "P080",
+    "datum": "2026-05-04",
+    "vek": 48,
+    "pohlavi": "M",
+    "hlavni_obtiz": "známá migréna",
+    "symptomy": [
+      "bolest hlavy",
+      "světloplachost"
+    ],
+    "vitaly": {
+      "TF": 80,
+      "TK": "122/84",
+      "SpO2": 99,
+      "teplota": 36.5,
+      "DF": 14
+    }
+  },
+  {
+    "id": "P081",
+    "datum": "2026-02-09",
+    "vek": 69,
+    "pohlavi": "Ž",
+    "hlavni_obtiz": "bolest po pádu",
+    "symptomy": [
+      "bolest končetiny",
+      "otok",
+      "deformita"
+    ],
+    "vitaly": {
+      "TF": 100,
+      "TK": "133/80",
+      "SpO2": 98,
+      "teplota": 36.9,
+      "DF": 16
+    }
+  },
+  {
+    "id": "P082",
+    "datum": "2026-01-26",
+    "vek": 40,
+    "pohlavi": "M",
+    "hlavni_obtiz": "zhoršení astmatu",
+    "symptomy": [
+      "pískoty",
+      "mírná dušnost"
+    ],
+    "vitaly": {
+      "TF": 102,
+      "TK": "130/81",
+      "SpO2": 95,
+      "teplota": 36.8,
+      "DF": 22
+    }
+  },
+  {
+    "id": "P083",
+    "datum": "2026-02-02",
+    "vek": 42,
+    "pohlavi": "Ž",
+    "hlavni_obtiz": "známá migréna",
+    "symptomy": [
+      "bolest hlavy",
+      "světloplachost"
+    ],
+    "vitaly": {
+      "TF": 72,
+      "TK": "128/71",
+      "SpO2": 98,
+      "teplota": 36.8,
+      "DF": 16
+    }
+  },
+  {
+    "id": "P084",
+    "datum": "2026-06-15",
+    "vek": 42,
+    "pohlavi": "Ž",
+    "hlavni_obtiz": "náhlá porucha vědomí",
+    "symptomy": [
+      "porucha vědomí",
+      "bledost",
+      "studený pot"
+    ],
+    "vitaly": {
+      "TF": 124,
+      "TK": "91/55",
+      "SpO2": 91,
+      "teplota": 36.1,
+      "DF": 32
+    }
+  },
+  {
+    "id": "P085",
+    "datum": "2026-01-26",
+    "vek": 31,
+    "pohlavi": "Ž",
+    "hlavni_obtiz": "malátnost a nevolnost",
+    "symptomy": [
+      "malátnost",
+      "nevolnost",
+      "žízeň"
+    ],
+    "vitaly": {
+      "TF": 99,
+      "TK": "112/73",
+      "SpO2": 97,
+      "teplota": 37.7,
+      "DF": 23
+    }
+  },
+  {
+    "id": "P086",
+    "datum": "2026-05-04",
+    "vek": 60,
+    "pohlavi": "M",
+    "hlavni_obtiz": "náhlá porucha vědomí",
+    "symptomy": [
+      "porucha vědomí",
+      "bledost",
+      "studený pot"
+    ],
+    "vitaly": {
+      "TF": 140,
+      "TK": "90/46",
+      "SpO2": 89,
+      "teplota": 36.1,
+      "DF": 31
+    }
+  },
+  {
+    "id": "P087",
+    "datum": "2026-05-04",
+    "vek": 26,
+    "pohlavi": "Ž",
+    "hlavni_obtiz": "silná bolest břicha",
+    "symptomy": [
+      "silná bolest břicha",
+      "zvracení",
+      "napětí stěny"
+    ],
+    "vitaly": {
+      "TF": 120,
+      "TK": "108/79",
+      "SpO2": 96,
+      "teplota": 38.4,
+      "DF": 20
+    }
+  },
+  {
+    "id": "P088",
+    "datum": "2026-03-02",
+    "vek": 41,
+    "pohlavi": "M",
+    "hlavni_obtiz": "horečka a kašel",
+    "symptomy": [
+      "horečka",
+      "kašel",
+      "rýma"
+    ],
+    "vitaly": {
+      "TF": 83,
+      "TK": "119/77",
+      "SpO2": 99,
+      "teplota": 38.1,
+      "DF": 15
+    }
+  },
+  {
+    "id": "P089",
+    "datum": "2026-02-02",
+    "vek": 61,
+    "pohlavi": "M",
+    "hlavni_obtiz": "mírně zvýšená teplota",
+    "symptomy": [
+      "mírná horečka",
+      "slabost"
+    ],
+    "vitaly": {
+      "TF": 100,
+      "TK": "119/73",
+      "SpO2": 98,
+      "teplota": 38.0,
+      "DF": 19
+    }
+  },
+  {
+    "id": "P090",
+    "datum": "2026-02-09",
+    "vek": 83,
+    "pohlavi": "M",
+    "hlavni_obtiz": "náhlá porucha vědomí",
+    "symptomy": [
+      "porucha vědomí",
+      "bledost",
+      "studený pot"
+    ],
+    "vitaly": {
+      "TF": 137,
+      "TK": "80/47",
+      "SpO2": 88,
+      "teplota": 36.8,
+      "DF": 30
+    }
+  },
+  {
+    "id": "P091",
+    "datum": "2026-06-15",
+    "vek": 37,
+    "pohlavi": "M",
+    "hlavni_obtiz": "řezná rána",
+    "symptomy": [
+      "krvácející rána",
+      "bolest"
+    ],
+    "vitaly": {
+      "TF": 76,
+      "TK": "130/85",
+      "SpO2": 98,
+      "teplota": 36.5,
+      "DF": 17
+    }
+  },
+  {
+    "id": "P092",
+    "datum": "2026-01-12",
+    "vek": 43,
+    "pohlavi": "M",
+    "hlavni_obtiz": "známá migréna",
+    "symptomy": [
+      "bolest hlavy",
+      "světloplachost"
+    ],
+    "vitaly": {
+      "TF": 73,
+      "TK": "115/71",
+      "SpO2": 99,
+      "teplota": 36.8,
+      "DF": 15
+    }
+  },
+  {
+    "id": "P093",
+    "datum": "2026-02-02",
+    "vek": 34,
+    "pohlavi": "Ž",
+    "hlavni_obtiz": "známá migréna",
+    "symptomy": [
+      "bolest hlavy",
+      "světloplachost"
+    ],
+    "vitaly": {
+      "TF": 86,
+      "TK": "119/73",
+      "SpO2": 99,
+      "teplota": 36.8,
+      "DF": 15
+    }
+  },
+  {
+    "id": "P094",
+    "datum": "2026-01-19",
+    "vek": 31,
+    "pohlavi": "Ž",
+    "hlavni_obtiz": "dušnost a bušení srdce",
+    "symptomy": [
+      "dušnost",
+      "bušení srdce",
+      "úzkost"
+    ],
+    "vitaly": {
+      "TF": 108,
+      "TK": "128/74",
+      "SpO2": 94,
+      "teplota": 36.6,
+      "DF": 24
+    }
+  },
+  {
+    "id": "P095",
+    "datum": "2026-02-09",
+    "vek": 48,
+    "pohlavi": "Ž",
+    "hlavni_obtiz": "známá migréna",
+    "symptomy": [
+      "bolest hlavy",
+      "světloplachost"
+    ],
+    "vitaly": {
+      "TF": 90,
+      "TK": "124/80",
+      "SpO2": 97,
+      "teplota": 36.7,
+      "DF": 13
+    }
+  },
+  {
+    "id": "P096",
+    "datum": "2026-03-02",
+    "vek": 25,
+    "pohlavi": "M",
+    "hlavni_obtiz": "bolest po pádu",
+    "symptomy": [
+      "bolest končetiny",
+      "otok",
+      "deformita"
+    ],
+    "vitaly": {
+      "TF": 100,
+      "TK": "132/75",
+      "SpO2": 98,
+      "teplota": 36.7,
+      "DF": 17
+    }
+  },
+  {
+    "id": "P097",
+    "datum": "2026-05-04",
+    "vek": 60,
+    "pohlavi": "M",
+    "hlavni_obtiz": "silná bolest břicha",
+    "symptomy": [
+      "silná bolest břicha",
+      "zvracení",
+      "napětí stěny"
+    ],
+    "vitaly": {
+      "TF": 111,
+      "TK": "108/72",
+      "SpO2": 98,
+      "teplota": 37.6,
+      "DF": 24
+    }
+  },
+  {
+    "id": "P098",
+    "datum": "2026-06-15",
+    "vek": 64,
+    "pohlavi": "Ž",
+    "hlavni_obtiz": "bolest po pádu",
+    "symptomy": [
+      "bolest končetiny",
+      "otok",
+      "deformita"
+    ],
+    "vitaly": {
+      "TF": 84,
+      "TK": "140/81",
+      "SpO2": 96,
+      "teplota": 36.5,
+      "DF": 14
+    }
+  },
+  {
+    "id": "P099",
+    "datum": "2026-02-02",
+    "vek": 52,
+    "pohlavi": "Ž",
+    "hlavni_obtiz": "horečka a kašel",
+    "symptomy": [
+      "horečka",
+      "kašel",
+      "rýma"
+    ],
+    "vitaly": {
+      "TF": 74,
+      "TK": "127/84",
+      "SpO2": 98,
+      "teplota": 38.2,
+      "DF": 18
+    }
+  },
+  {
+    "id": "P100",
+    "datum": "2026-05-04",
+    "vek": 61,
+    "pohlavi": "Ž",
+    "hlavni_obtiz": "silná bolest břicha",
+    "symptomy": [
+      "silná bolest břicha",
+      "zvracení",
+      "napětí stěny"
+    ],
+    "vitaly": {
+      "TF": 103,
+      "TK": "120/78",
+      "SpO2": 97,
+      "teplota": 37.6,
+      "DF": 22
+    }
+  },
+  {
+    "id": "P101",
+    "datum": "2026-01-19",
+    "vek": 63,
+    "pohlavi": "M",
+    "hlavni_obtiz": "bolest po pádu",
+    "symptomy": [
+      "bolest končetiny",
+      "otok",
+      "deformita"
+    ],
+    "vitaly": {
+      "TF": 86,
+      "TK": "137/85",
+      "SpO2": 98,
+      "teplota": 36.4,
+      "DF": 16
+    }
+  },
+  {
+    "id": "P102",
+    "datum": "2026-01-19",
+    "vek": 82,
+    "pohlavi": "M",
+    "hlavni_obtiz": "náhlá porucha vědomí",
+    "symptomy": [
+      "porucha vědomí",
+      "bledost",
+      "studený pot"
+    ],
+    "vitaly": {
+      "TF": 126,
+      "TK": "75/46",
+      "SpO2": 91,
+      "teplota": 36.3,
+      "DF": 27
+    }
+  },
+  {
+    "id": "P103",
+    "datum": "2026-02-02",
+    "vek": 44,
+    "pohlavi": "Ž",
+    "hlavni_obtiz": "mírně zvýšená teplota",
+    "symptomy": [
+      "mírná horečka",
+      "slabost"
+    ],
+    "vitaly": {
+      "TF": 91,
+      "TK": "119/82",
+      "SpO2": 95,
+      "teplota": 37.8,
+      "DF": 17
+    }
+  },
+  {
+    "id": "P104",
+    "datum": "2026-01-19",
+    "vek": 82,
+    "pohlavi": "Ž",
+    "hlavni_obtiz": "náhlá porucha vědomí",
+    "symptomy": [
+      "porucha vědomí",
+      "bledost",
+      "studený pot"
+    ],
+    "vitaly": {
+      "TF": 120,
+      "TK": "79/45",
+      "SpO2": 87,
+      "teplota": 36.6,
+      "DF": 27
+    }
+  },
+  {
+    "id": "P105",
+    "datum": "2026-01-12",
+    "vek": 28,
+    "pohlavi": "M",
+    "hlavni_obtiz": "bolest po pádu",
+    "symptomy": [
+      "bolest končetiny",
+      "otok",
+      "deformita"
+    ],
+    "vitaly": {
+      "TF": 98,
+      "TK": "133/83",
+      "SpO2": 96,
+      "teplota": 36.8,
+      "DF": 17
+    }
+  },
+  {
+    "id": "P106",
+    "datum": "2026-06-15",
+    "vek": 44,
+    "pohlavi": "Ž",
+    "hlavni_obtiz": "zhoršení astmatu",
+    "symptomy": [
+      "pískoty",
+      "mírná dušnost"
+    ],
+    "vitaly": {
+      "TF": 92,
+      "TK": "134/71",
+      "SpO2": 95,
+      "teplota": 36.8,
+      "DF": 18
+    }
+  },
+  {
+    "id": "P107",
+    "datum": "2026-05-04",
+    "vek": 83,
+    "pohlavi": "M",
+    "hlavni_obtiz": "náhlá porucha vědomí",
+    "symptomy": [
+      "porucha vědomí",
+      "bledost",
+      "studený pot"
+    ],
+    "vitaly": {
+      "TF": 123,
+      "TK": "90/59",
+      "SpO2": 85,
+      "teplota": 36.7,
+      "DF": 28
+    }
+  },
+  {
+    "id": "P108",
+    "datum": "2026-02-09",
+    "vek": 88,
+    "pohlavi": "M",
+    "hlavni_obtiz": "horečka a kašel",
+    "symptomy": [
+      "horečka",
+      "kašel",
+      "slabost"
+    ],
+    "vitaly": {
+      "TF": 98,
+      "TK": "130/79",
+      "SpO2": 95,
+      "teplota": 38.2,
+      "DF": 21
+    }
+  },
+  {
+    "id": "P109",
+    "datum": "2026-05-04",
+    "vek": 46,
+    "pohlavi": "Ž",
+    "hlavni_obtiz": "horečka a kašel",
+    "symptomy": [
+      "horečka",
+      "kašel",
+      "rýma"
+    ],
+    "vitaly": {
+      "TF": 77,
+      "TK": "128/80",
+      "SpO2": 99,
+      "teplota": 37.9,
+      "DF": 14
+    }
+  },
+  {
+    "id": "P110",
+    "datum": "2026-03-02",
+    "vek": 29,
+    "pohlavi": "M",
+    "hlavni_obtiz": "silná bolest břicha",
+    "symptomy": [
+      "silná bolest břicha",
+      "zvracení",
+      "napětí stěny"
+    ],
+    "vitaly": {
+      "TF": 115,
+      "TK": "107/67",
+      "SpO2": 95,
+      "teplota": 37.7,
+      "DF": 20
+    }
+  },
+  {
+    "id": "P111",
+    "datum": "2026-03-02",
+    "vek": 19,
+    "pohlavi": "Ž",
+    "hlavni_obtiz": "zhoršení astmatu",
+    "symptomy": [
+      "pískoty",
+      "mírná dušnost"
+    ],
+    "vitaly": {
+      "TF": 98,
+      "TK": "126/83",
+      "SpO2": 93,
+      "teplota": 37.2,
+      "DF": 22
+    }
+  },
+  {
+    "id": "P112",
+    "datum": "2026-01-26",
+    "vek": 42,
+    "pohlavi": "Ž",
+    "hlavni_obtiz": "zhoršení astmatu",
+    "symptomy": [
+      "pískoty",
+      "mírná dušnost"
+    ],
+    "vitaly": {
+      "TF": 92,
+      "TK": "118/81",
+      "SpO2": 95,
+      "teplota": 36.5,
+      "DF": 20
+    }
+  },
+  {
+    "id": "P113",
+    "datum": "2026-02-09",
+    "vek": 19,
+    "pohlavi": "Ž",
+    "hlavni_obtiz": "řezná rána",
+    "symptomy": [
+      "krvácející rána",
+      "bolest"
+    ],
+    "vitaly": {
+      "TF": 75,
+      "TK": "126/83",
+      "SpO2": 98,
+      "teplota": 37.0,
+      "DF": 16
+    }
+  },
+  {
+    "id": "P114",
+    "datum": "2026-01-12",
+    "vek": 72,
+    "pohlavi": "M",
+    "hlavni_obtiz": "horečka a kašel",
+    "symptomy": [
+      "horečka",
+      "kašel",
+      "slabost"
+    ],
+    "vitaly": {
+      "TF": 88,
+      "TK": "120/76",
+      "SpO2": 95,
+      "teplota": 38.1,
+      "DF": 20
+    }
+  },
+  {
+    "id": "P115",
+    "datum": "2026-01-19",
+    "vek": 23,
+    "pohlavi": "M",
+    "hlavni_obtiz": "silná bolest břicha",
+    "symptomy": [
+      "silná bolest břicha",
+      "zvracení",
+      "napětí stěny"
+    ],
+    "vitaly": {
+      "TF": 104,
+      "TK": "110/66",
+      "SpO2": 95,
+      "teplota": 37.9,
+      "DF": 25
+    }
+  },
+  {
+    "id": "P116",
+    "datum": "2026-02-09",
+    "vek": 31,
+    "pohlavi": "M",
+    "hlavni_obtiz": "řezná rána",
+    "symptomy": [
+      "krvácející rána",
+      "bolest"
+    ],
+    "vitaly": {
+      "TF": 94,
+      "TK": "134/73",
+      "SpO2": 98,
+      "teplota": 36.7,
+      "DF": 16
+    }
+  },
+  {
+    "id": "P117",
+    "datum": "2026-01-12",
+    "vek": 34,
+    "pohlavi": "M",
+    "hlavni_obtiz": "silná bolest břicha",
+    "symptomy": [
+      "silná bolest břicha",
+      "zvracení",
+      "napětí stěny"
+    ],
+    "vitaly": {
+      "TF": 112,
+      "TK": "124/66",
+      "SpO2": 95,
+      "teplota": 37.8,
+      "DF": 21
+    }
+  },
+  {
+    "id": "P118",
+    "datum": "2026-01-19",
+    "vek": 18,
+    "pohlavi": "M",
+    "hlavni_obtiz": "známá migréna",
+    "symptomy": [
+      "bolest hlavy",
+      "světloplachost"
+    ],
+    "vitaly": {
+      "TF": 80,
+      "TK": "128/75",
+      "SpO2": 97,
+      "teplota": 36.6,
+      "DF": 14
+    }
+  },
+  {
+    "id": "P119",
+    "datum": "2026-01-19",
+    "vek": 45,
+    "pohlavi": "M",
+    "hlavni_obtiz": "silná bolest břicha",
+    "symptomy": [
+      "silná bolest břicha",
+      "zvracení",
+      "napětí stěny"
+    ],
+    "vitaly": {
+      "TF": 101,
+      "TK": "118/65",
+      "SpO2": 98,
+      "teplota": 38.7,
+      "DF": 26
+    }
+  },
+  {
+    "id": "P120",
+    "datum": "2026-05-04",
+    "vek": 30,
+    "pohlavi": "M",
+    "hlavni_obtiz": "zhoršení astmatu",
+    "symptomy": [
+      "pískoty",
+      "mírná dušnost"
+    ],
+    "vitaly": {
+      "TF": 88,
+      "TK": "127/70",
+      "SpO2": 95,
+      "teplota": 36.5,
+      "DF": 22
+    }
+  }
+]

@@ -1,0 +1,728 @@
+{
+  "P001": {
+    "id": "P001",
+    "rizikove_faktory": [],
+    "predchozi_navstevy": 1
+  },
+  "P002": {
+    "id": "P002",
+    "rizikove_faktory": [
+      "astma"
+    ],
+    "predchozi_navstevy": 3
+  },
+  "P003": {
+    "id": "P003",
+    "rizikove_faktory": [],
+    "predchozi_navstevy": 2
+  },
+  "P004": {
+    "id": "P004",
+    "rizikove_faktory": [],
+    "predchozi_navstevy": 0
+  },
+  "P005": {
+    "id": "P005",
+    "rizikove_faktory": [
+      "věk nad 65",
+      "CHOPN"
+    ],
+    "predchozi_navstevy": 1
+  },
+  "P006": {
+    "id": "P006",
+    "rizikove_faktory": [],
+    "predchozi_navstevy": 2
+  },
+  "P007": {
+    "id": "P007",
+    "rizikove_faktory": [],
+    "predchozi_navstevy": 1
+  },
+  "P008": {
+    "id": "P008",
+    "rizikove_faktory": [
+      "astma"
+    ],
+    "predchozi_navstevy": 4
+  },
+  "P009": {
+    "id": "P009",
+    "rizikove_faktory": [],
+    "predchozi_navstevy": 0
+  },
+  "P010": {
+    "id": "P010",
+    "rizikove_faktory": [
+      "věk nad 65",
+      "CHOPN"
+    ],
+    "predchozi_navstevy": 0
+  },
+  "P011": {
+    "id": "P011",
+    "rizikove_faktory": [
+      "astma"
+    ],
+    "predchozi_navstevy": 2
+  },
+  "P012": {
+    "id": "P012",
+    "rizikove_faktory": [],
+    "predchozi_navstevy": 4
+  },
+  "P013": {
+    "id": "P013",
+    "rizikove_faktory": [
+      "astma"
+    ],
+    "predchozi_navstevy": 4
+  },
+  "P014": {
+    "id": "P014",
+    "rizikove_faktory": [],
+    "predchozi_navstevy": 2
+  },
+  "P015": {
+    "id": "P015",
+    "rizikove_faktory": [
+      "astma"
+    ],
+    "predchozi_navstevy": 0
+  },
+  "P016": {
+    "id": "P016",
+    "rizikove_faktory": [],
+    "predchozi_navstevy": 1
+  },
+  "P017": {
+    "id": "P017",
+    "rizikove_faktory": [
+      "hypertenze",
+      "diabetes 2. typu",
+      "rodinná anamnéza IM"
+    ],
+    "predchozi_navstevy": 4
+  },
+  "P018": {
+    "id": "P018",
+    "rizikove_faktory": [],
+    "predchozi_navstevy": 3
+  },
+  "P019": {
+    "id": "P019",
+    "rizikove_faktory": [],
+    "predchozi_navstevy": 3
+  },
+  "P020": {
+    "id": "P020",
+    "rizikove_faktory": [
+      "věk nad 65",
+      "CHOPN"
+    ],
+    "predchozi_navstevy": 0
+  },
+  "P021": {
+    "id": "P021",
+    "rizikove_faktory": [],
+    "predchozi_navstevy": 1
+  },
+  "P022": {
+    "id": "P022",
+    "rizikove_faktory": [],
+    "predchozi_navstevy": 2
+  },
+  "P023": {
+    "id": "P023",
+    "rizikove_faktory": [
+      "hypertenze",
+      "diabetes 2. typu",
+      "rodinná anamnéza IM"
+    ],
+    "predchozi_navstevy": 1
+  },
+  "P024": {
+    "id": "P024",
+    "rizikove_faktory": [
+      "onkologická léčba / chemoterapie",
+      "imunosuprese"
+    ],
+    "predchozi_navstevy": 1
+  },
+  "P025": {
+    "id": "P025",
+    "rizikove_faktory": [],
+    "predchozi_navstevy": 1
+  },
+  "P026": {
+    "id": "P026",
+    "rizikove_faktory": [],
+    "predchozi_navstevy": 0
+  },
+  "P027": {
+    "id": "P027",
+    "rizikove_faktory": [
+      "věk nad 65",
+      "CHOPN"
+    ],
+    "predchozi_navstevy": 2
+  },
+  "P028": {
+    "id": "P028",
+    "rizikove_faktory": [],
+    "predchozi_navstevy": 4
+  },
+  "P029": {
+    "id": "P029",
+    "rizikove_faktory": [
+      "nedávná imobilizace",
+      "hormonální antikoncepce"
+    ],
+    "predchozi_navstevy": 0
+  },
+  "P030": {
+    "id": "P030",
+    "rizikove_faktory": [
+      "diabetes 1. typu"
+    ],
+    "predchozi_navstevy": 4
+  },
+  "P031": {
+    "id": "P031",
+    "rizikove_faktory": [
+      "astma"
+    ],
+    "predchozi_navstevy": 3
+  },
+  "P032": {
+    "id": "P032",
+    "rizikove_faktory": [
+      "nedávná imobilizace",
+      "hormonální antikoncepce"
+    ],
+    "predchozi_navstevy": 3
+  },
+  "P033": {
+    "id": "P033",
+    "rizikove_faktory": [],
+    "predchozi_navstevy": 3
+  },
+  "P034": {
+    "id": "P034",
+    "rizikove_faktory": [],
+    "predchozi_navstevy": 1
+  },
+  "P035": {
+    "id": "P035",
+    "rizikove_faktory": [
+      "diabetes 1. typu"
+    ],
+    "predchozi_navstevy": 2
+  },
+  "P036": {
+    "id": "P036",
+    "rizikove_faktory": [],
+    "predchozi_navstevy": 1
+  },
+  "P037": {
+    "id": "P037",
+    "rizikove_faktory": [
+      "migréna v anamnéze"
+    ],
+    "predchozi_navstevy": 3
+  },
+  "P038": {
+    "id": "P038",
+    "rizikove_faktory": [],
+    "predchozi_navstevy": 2
+  },
+  "P039": {
+    "id": "P039",
+    "rizikove_faktory": [],
+    "predchozi_navstevy": 1
+  },
+  "P040": {
+    "id": "P040",
+    "rizikove_faktory": [
+      "diabetes 1. typu"
+    ],
+    "predchozi_navstevy": 4
+  },
+  "P041": {
+    "id": "P041",
+    "rizikove_faktory": [
+      "migréna v anamnéze"
+    ],
+    "predchozi_navstevy": 2
+  },
+  "P042": {
+    "id": "P042",
+    "rizikove_faktory": [],
+    "predchozi_navstevy": 1
+  },
+  "P043": {
+    "id": "P043",
+    "rizikove_faktory": [
+      "astma"
+    ],
+    "predchozi_navstevy": 1
+  },
+  "P044": {
+    "id": "P044",
+    "rizikove_faktory": [],
+    "predchozi_navstevy": 3
+  },
+  "P045": {
+    "id": "P045",
+    "rizikove_faktory": [
+      "diabetes 1. typu"
+    ],
+    "predchozi_navstevy": 3
+  },
+  "P046": {
+    "id": "P046",
+    "rizikove_faktory": [],
+    "predchozi_navstevy": 1
+  },
+  "P047": {
+    "id": "P047",
+    "rizikove_faktory": [
+      "migréna v anamnéze"
+    ],
+    "predchozi_navstevy": 3
+  },
+  "P048": {
+    "id": "P048",
+    "rizikove_faktory": [],
+    "predchozi_navstevy": 4
+  },
+  "P049": {
+    "id": "P049",
+    "rizikove_faktory": [],
+    "predchozi_navstevy": 3
+  },
+  "P050": {
+    "id": "P050",
+    "rizikove_faktory": [
+      "nedávná imobilizace",
+      "hormonální antikoncepce"
+    ],
+    "predchozi_navstevy": 4
+  },
+  "P051": {
+    "id": "P051",
+    "rizikove_faktory": [],
+    "predchozi_navstevy": 2
+  },
+  "P052": {
+    "id": "P052",
+    "rizikove_faktory": [],
+    "predchozi_navstevy": 1
+  },
+  "P053": {
+    "id": "P053",
+    "rizikove_faktory": [],
+    "predchozi_navstevy": 0
+  },
+  "P054": {
+    "id": "P054",
+    "rizikove_faktory": [],
+    "predchozi_navstevy": 2
+  },
+  "P055": {
+    "id": "P055",
+    "rizikove_faktory": [
+      "hypertenze",
+      "diabetes 2. typu",
+      "rodinná anamnéza IM"
+    ],
+    "predchozi_navstevy": 0
+  },
+  "P056": {
+    "id": "P056",
+    "rizikove_faktory": [
+      "migréna v anamnéze"
+    ],
+    "predchozi_navstevy": 0
+  },
+  "P057": {
+    "id": "P057",
+    "rizikove_faktory": [],
+    "predchozi_navstevy": 2
+  },
+  "P058": {
+    "id": "P058",
+    "rizikove_faktory": [
+      "astma"
+    ],
+    "predchozi_navstevy": 2
+  },
+  "P059": {
+    "id": "P059",
+    "rizikove_faktory": [],
+    "predchozi_navstevy": 2
+  },
+  "P060": {
+    "id": "P060",
+    "rizikove_faktory": [
+      "migréna v anamnéze"
+    ],
+    "predchozi_navstevy": 4
+  },
+  "P061": {
+    "id": "P061",
+    "rizikove_faktory": [],
+    "predchozi_navstevy": 2
+  },
+  "P062": {
+    "id": "P062",
+    "rizikove_faktory": [
+      "migréna v anamnéze"
+    ],
+    "predchozi_navstevy": 2
+  },
+  "P063": {
+    "id": "P063",
+    "rizikove_faktory": [],
+    "predchozi_navstevy": 2
+  },
+  "P064": {
+    "id": "P064",
+    "rizikove_faktory": [],
+    "predchozi_navstevy": 4
+  },
+  "P065": {
+    "id": "P065",
+    "rizikove_faktory": [
+      "hypertenze",
+      "diabetes 2. typu",
+      "rodinná anamnéza IM"
+    ],
+    "predchozi_navstevy": 4
+  },
+  "P066": {
+    "id": "P066",
+    "rizikove_faktory": [],
+    "predchozi_navstevy": 3
+  },
+  "P067": {
+    "id": "P067",
+    "rizikove_faktory": [
+      "astma"
+    ],
+    "predchozi_navstevy": 3
+  },
+  "P068": {
+    "id": "P068",
+    "rizikove_faktory": [],
+    "predchozi_navstevy": 4
+  },
+  "P069": {
+    "id": "P069",
+    "rizikove_faktory": [],
+    "predchozi_navstevy": 1
+  },
+  "P070": {
+    "id": "P070",
+    "rizikove_faktory": [
+      "diabetes 1. typu"
+    ],
+    "predchozi_navstevy": 0
+  },
+  "P071": {
+    "id": "P071",
+    "rizikove_faktory": [
+      "migréna v anamnéze"
+    ],
+    "predchozi_navstevy": 0
+  },
+  "P072": {
+    "id": "P072",
+    "rizikove_faktory": [
+      "nedávná imobilizace",
+      "hormonální antikoncepce"
+    ],
+    "predchozi_navstevy": 4
+  },
+  "P073": {
+    "id": "P073",
+    "rizikove_faktory": [],
+    "predchozi_navstevy": 4
+  },
+  "P074": {
+    "id": "P074",
+    "rizikove_faktory": [],
+    "predchozi_navstevy": 3
+  },
+  "P075": {
+    "id": "P075",
+    "rizikove_faktory": [],
+    "predchozi_navstevy": 2
+  },
+  "P076": {
+    "id": "P076",
+    "rizikove_faktory": [],
+    "predchozi_navstevy": 3
+  },
+  "P077": {
+    "id": "P077",
+    "rizikove_faktory": [],
+    "predchozi_navstevy": 3
+  },
+  "P078": {
+    "id": "P078",
+    "rizikove_faktory": [],
+    "predchozi_navstevy": 1
+  },
+  "P079": {
+    "id": "P079",
+    "rizikove_faktory": [
+      "migréna v anamnéze"
+    ],
+    "predchozi_navstevy": 3
+  },
+  "P080": {
+    "id": "P080",
+    "rizikove_faktory": [
+      "migréna v anamnéze"
+    ],
+    "predchozi_navstevy": 4
+  },
+  "P081": {
+    "id": "P081",
+    "rizikove_faktory": [],
+    "predchozi_navstevy": 2
+  },
+  "P082": {
+    "id": "P082",
+    "rizikove_faktory": [
+      "astma"
+    ],
+    "predchozi_navstevy": 3
+  },
+  "P083": {
+    "id": "P083",
+    "rizikove_faktory": [
+      "migréna v anamnéze"
+    ],
+    "predchozi_navstevy": 3
+  },
+  "P084": {
+    "id": "P084",
+    "rizikove_faktory": [],
+    "predchozi_navstevy": 3
+  },
+  "P085": {
+    "id": "P085",
+    "rizikove_faktory": [
+      "diabetes 1. typu"
+    ],
+    "predchozi_navstevy": 3
+  },
+  "P086": {
+    "id": "P086",
+    "rizikove_faktory": [],
+    "predchozi_navstevy": 2
+  },
+  "P087": {
+    "id": "P087",
+    "rizikove_faktory": [],
+    "predchozi_navstevy": 0
+  },
+  "P088": {
+    "id": "P088",
+    "rizikove_faktory": [],
+    "predchozi_navstevy": 1
+  },
+  "P089": {
+    "id": "P089",
+    "rizikove_faktory": [
+      "onkologická léčba / chemoterapie",
+      "imunosuprese"
+    ],
+    "predchozi_navstevy": 2
+  },
+  "P090": {
+    "id": "P090",
+    "rizikove_faktory": [],
+    "predchozi_navstevy": 2
+  },
+  "P091": {
+    "id": "P091",
+    "rizikove_faktory": [],
+    "predchozi_navstevy": 4
+  },
+  "P092": {
+    "id": "P092",
+    "rizikove_faktory": [
+      "migréna v anamnéze"
+    ],
+    "predchozi_navstevy": 1
+  },
+  "P093": {
+    "id": "P093",
+    "rizikove_faktory": [
+      "migréna v anamnéze"
+    ],
+    "predchozi_navstevy": 3
+  },
+  "P094": {
+    "id": "P094",
+    "rizikove_faktory": [
+      "nedávná imobilizace",
+      "hormonální antikoncepce"
+    ],
+    "predchozi_navstevy": 2
+  },
+  "P095": {
+    "id": "P095",
+    "rizikove_faktory": [
+      "migréna v anamnéze"
+    ],
+    "predchozi_navstevy": 1
+  },
+  "P096": {
+    "id": "P096",
+    "rizikove_faktory": [],
+    "predchozi_navstevy": 2
+  },
+  "P097": {
+    "id": "P097",
+    "rizikove_faktory": [],
+    "predchozi_navstevy": 2
+  },
+  "P098": {
+    "id": "P098",
+    "rizikove_faktory": [],
+    "predchozi_navstevy": 2
+  },
+  "P099": {
+    "id": "P099",
+    "rizikove_faktory": [],
+    "predchozi_navstevy": 3
+  },
+  "P100": {
+    "id": "P100",
+    "rizikove_faktory": [],
+    "predchozi_navstevy": 1
+  },
+  "P101": {
+    "id": "P101",
+    "rizikove_faktory": [],
+    "predchozi_navstevy": 1
+  },
+  "P102": {
+    "id": "P102",
+    "rizikove_faktory": [],
+    "predchozi_navstevy": 4
+  },
+  "P103": {
+    "id": "P103",
+    "rizikove_faktory": [
+      "onkologická léčba / chemoterapie",
+      "imunosuprese"
+    ],
+    "predchozi_navstevy": 1
+  },
+  "P104": {
+    "id": "P104",
+    "rizikove_faktory": [],
+    "predchozi_navstevy": 4
+  },
+  "P105": {
+    "id": "P105",
+    "rizikove_faktory": [],
+    "predchozi_navstevy": 3
+  },
+  "P106": {
+    "id": "P106",
+    "rizikove_faktory": [
+      "astma"
+    ],
+    "predchozi_navstevy": 0
+  },
+  "P107": {
+    "id": "P107",
+    "rizikove_faktory": [],
+    "predchozi_navstevy": 4
+  },
+  "P108": {
+    "id": "P108",
+    "rizikove_faktory": [
+      "věk nad 65",
+      "CHOPN"
+    ],
+    "predchozi_navstevy": 0
+  },
+  "P109": {
+    "id": "P109",
+    "rizikove_faktory": [],
+    "predchozi_navstevy": 2
+  },
+  "P110": {
+    "id": "P110",
+    "rizikove_faktory": [],
+    "predchozi_navstevy": 2
+  },
+  "P111": {
+    "id": "P111",
+    "rizikove_faktory": [
+      "astma"
+    ],
+    "predchozi_navstevy": 2
+  },
+  "P112": {
+    "id": "P112",
+    "rizikove_faktory": [
+      "astma"
+    ],
+    "predchozi_navstevy": 4
+  },
+  "P113": {
+    "id": "P113",
+    "rizikove_faktory": [],
+    "predchozi_navstevy": 0
+  },
+  "P114": {
+    "id": "P114",
+    "rizikove_faktory": [
+      "věk nad 65",
+      "CHOPN"
+    ],
+    "predchozi_navstevy": 1
+  },
+  "P115": {
+    "id": "P115",
+    "rizikove_faktory": [],
+    "predchozi_navstevy": 3
+  },
+  "P116": {
+    "id": "P116",
+    "rizikove_faktory": [],
+    "predchozi_navstevy": 4
+  },
+  "P117": {
+    "id": "P117",
+    "rizikove_faktory": [],
+    "predchozi_navstevy": 1
+  },
+  "P118": {
+    "id": "P118",
+    "rizikove_faktory": [
+      "migréna v anamnéze"
+    ],
+    "predchozi_navstevy": 4
+  },
+  "P119": {
+    "id": "P119",
+    "rizikove_faktory": [],
+    "predchozi_navstevy": 2
+  },
+  "P120": {
+    "id": "P120",
+    "rizikove_faktory": [
+      "astma"
+    ],
+    "predchozi_navstevy": 3
+  }
+}
