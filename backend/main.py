@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
+from fastapi.responses import RedirectResponse
 from pydantic import BaseModel
 import json, os
 import tools
@@ -32,6 +33,11 @@ class PriorityAssignment(BaseModel):
     pid: str
     priorita: int
     
+# ---------- Root ----------
+@app.get("/", include_in_schema=False)
+def root():
+    return RedirectResponse(url="/docs")
+
 # ---------- Pacienti ----------
 @app.get("/patients", summary="Seznam všech ID pacientů")
 def list_patients():
