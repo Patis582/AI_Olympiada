@@ -3,8 +3,10 @@ from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import RedirectResponse
 from pydantic import BaseModel
+from typing import Optional
 import json, os
 import tools
+import intake as intake_mod
 from bodovac import vyhodnot, PRIPADY
 
 app = FastAPI(
@@ -12,6 +14,10 @@ app = FastAPI(
     description="REST API nad sandbox daty pro ČAO 2026",
     version="1.0.0",
 )
+
+@app.on_event("startup")
+def on_startup():
+    intake_mod.seed_demo()
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],
@@ -27,12 +33,23 @@ class EscalateRequest(BaseModel):
     duvod: str
 
 class EvaluateRequest(BaseModel):
-    priority: dict[str, int]  # {"P001": 3, "P002": 1, ...}
+    priority: dict  # {"P001": 3, "P002": 1, ...}
 
 class PriorityAssignment(BaseModel):
     pid: str
     priorita: int
-    
+
+class IntakeStartRequest(BaseModel):
+    complaint: str
+    patient_id: Optional[str] = None
+
+class IntakeRoundRequest(BaseModel):
+    session_id: str
+    answers: list[dict]  # [{"question": str, "answer": str}]
+
+class ConfirmPriorityRequest(BaseModel):
+    priority: int
+
 # ---------- Root ----------
 @app.get("/", include_in_schema=False)
 def root():
@@ -118,3 +135,54 @@ def reset_session():
     tools._ESCALATIONS.clear()
     tools._BURDEN["otazky"] = 0
     return {"ok": True, "zprava": "Sezení bylo resetováno"}
+
+# ---------- Intake (pacientský flow) ----------
+@app.post("/intake/start", summary="Zahájí intake session pro pacienta")
+def intake_start(body: IntakeStartRequest):
+    try:
+        session_id, questions, done, priority, reasoning = intake_mod.start_session(
+            body.complaint, body.patient_id
+        )
+        return {
+            "session_id": session_id,
+            "questions": questions,
+            "done": done,
+            "priority": priority,
+            "reasoning": reasoning,
+        }
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+
+@app.post("/intake/round", summary="Odešle odpovědi z kola a vrátí další otázky nebo výsledek")
+def intake_round(body: IntakeRoundRequest):
+    try:
+        questions, done, priority, reasoning = intake_mod.process_round(
+            body.session_id, body.answers
+        )
+        return {
+            "questions": questions,
+            "done": done,
+            "priority": priority,
+            "reasoning": reasoning,
+        }
+    except ValueError as e:
+        raise HTTPException(status_code=404, detail=str(e))
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+
+# ---------- Admin dashboard ----------
+@app.get("/admin/triage", summary="Seznam pacientů s AI prioritou pro admin dashboard")
+def admin_triage():
+    return intake_mod.get_triage_list()
+
+@app.post("/admin/triage/{pid}/confirm", summary="Lékař potvrdí nebo upraví prioritu")
+def admin_confirm(pid: str, body: ConfirmPriorityRequest):
+    try:
+        return intake_mod.confirm_priority(pid, body.priority)
+    except ValueError as e:
+        raise HTTPException(status_code=404, detail=str(e))
+
+@app.post("/admin/seed", summary="Naplní admin dashboard demo daty (bez volání GPT)")
+def admin_seed():
+    intake_mod.seed_demo()
+    return {"ok": True, "zprava": f"Naplněno {len(intake_mod._TRIAGE_STATE)} demo pacientů"}
